@@ -1,0 +1,5 @@
+mpmath==1.1.0
+numpy==1.18.4
+prettytable==0.7.2
+sympy==1.6
+termcolor==1.1.0
